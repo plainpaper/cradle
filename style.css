@@ -19,7 +19,7 @@ body{
     width: 50rem;
     height: 50rem;
     background-color: transparent;
-    border-top: 2rem solid #865dff;
+    border-top: 2rem solid white;
     border-radius: 0.5rem;
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ body{
 div{
     width: 0.5rem;
     height: 20rem;
-    background-color: #865dff;
+    background-color: white;
     position: relative;
 }
 
@@ -40,7 +40,7 @@ div{
     left: -2.25rem;
     width: 5rem;
     aspect-ratio: 1;
-    background-color: #865dff;
+    background-color: white;
     border-radius: 50%;
 }
 
